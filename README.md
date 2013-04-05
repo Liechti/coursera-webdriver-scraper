@@ -4,7 +4,7 @@ coursera-webdriver-scraper
 A simple web scaper written in Python 2.7 using Selenium WebDriver.
 
 Dependenices:
-- FireFox
+- Firefox
 - Selenium
 
 If you use pip, install Selenium with
